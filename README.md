@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/pyrikbse876386-sys/module-1/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2409-count-days-spent-together](https://github.com/pyrikbse876386-sys/module-1/tree/master/2409-count-days-spent-together) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/pyrikbse876386-sys/module-1/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/pyrikbse876386-sys/module-1/tree/master/3331-find-subtree-sizes-after-changes) |
